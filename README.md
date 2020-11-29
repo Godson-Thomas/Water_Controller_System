@@ -1,5 +1,5 @@
 
-* A Project Developed For ***RoboSlog Company***
+* A Product Developed For ***RoboSlog Company***
 
 <br>
 <img src="https://github.com/Godson-Thomas/Water_Controller_System/blob/master/Images/RoboSlog_Company.jpg" width="200">
