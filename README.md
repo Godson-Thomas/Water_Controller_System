@@ -1,5 +1,5 @@
 
-* A Project Developed For ***RoboSlog***
+* A Project Developed For ***RoboSlog Company***
 
 <br>
 <img src="https://github.com/Godson-Thomas/Water_Controller_System/blob/master/Images/RoboSlog_Company.jpg" width="200">
@@ -9,10 +9,7 @@
 
 
 ## ESP32 Microcontroller
-
-
-
-
 <img src="https://github.com/Godson-Thomas/Water_Controller_System/blob/master/esp32_pin_.jpg" width="600">
-<img src="https://ecs7.tokopedia.net/img/cache/700/product-1/2018/1/13/0/0_39042606-5b34-44b8-a044-c00f70e97706_958_960.jpg" width="200"> 
 
+
+_A IOT based Automatic Water Controller Module which keeps a track of the the water level inside the tank and depending on the water level, the module triggers the motor. The user gets notified when the water level falls below a threshold value.The module automatically turns on the motor so that water can be pumped into the tank_
