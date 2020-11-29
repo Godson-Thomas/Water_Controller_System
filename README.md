@@ -9,7 +9,7 @@ _A IOT based Automatic Water Controller Module which keeps a track of the the wa
 
 
 ## ESP32 Microcontroller
-<img src="https://github.com/Godson-Thomas/Water_Controller_System/blob/master/esp32_pin_.jpg" width="300">
+<img src="https://github.com/Godson-Thomas/Water_Controller_System/blob/master/esp32_pin_.jpg" width="500">
 
 
 
